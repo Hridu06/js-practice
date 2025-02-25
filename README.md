@@ -1,2 +1,2 @@
 # js-practice
-Learning js repository
+Learning js 
